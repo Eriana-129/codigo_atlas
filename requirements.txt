@@ -1,3 +1,2 @@
-Python
 QGis
 Bin of QGis in PATH
